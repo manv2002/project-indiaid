@@ -1,0 +1,302 @@
+/*------------------nav bar start---------------------------*/
+.about-us{
+    position: absolute;
+    width: 93px;
+    height: 20px;
+    left: 377px;
+    top: 50px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #4A4A48;
+}
+
+.announcement {
+position: absolute;
+width: 159px;
+height: 20px;
+left: 536px;
+top: 50px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* identical to box height, or 20px */
+
+text-align: center;
+
+color: #4A4A48;
+}
+
+.loginsignup {
+    position: absolute;
+    width: 136px;
+    height: 20px;
+    left: 900px;
+    top: 50px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #4A4A48;
+    
+}
+
+.contact {
+    position: absolute;
+    width: 80px;
+    height: 20px;
+    left: 759px;
+    top: 50px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #4A4A48;
+}
+
+.logo {
+position: absolute;
+width: 205px;
+height: 49px;
+left: 52px;
+top: 32px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 97.5%;
+/* identical to box height, or 49px */
+
+text-align: center;
+
+color: #BB0A21;
+}
+
+.donate {
+position: absolute;
+width: 75px;
+height: 20px;
+left: 1097px;
+top: 50px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* identical to box height, or 20px */
+
+text-align: center;
+
+color: #4A4A48;
+}
+
+/*------------------------nav bar end-------------------------------------*/
+
+/*----------------------heading---------------------------------------*/
+.what-you-give1 {
+    color: #BB0A21;
+  }
+
+  .you-make-a-container1 {
+    position: absolute;
+    width: 620px;
+    height: 35px;
+    left: 373px;
+    top: 130px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 97.5%;
+    /* or 35px */
+    
+    text-align: center;
+  }
+
+
+  .become-a-volunteer1 {
+    position: absolute;
+    width: 323px;
+    height: 31px;
+    left: 521px;
+    top: 186px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 29px;
+    line-height: 97.5%;
+    /* or 31px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+  }
+  .become-a-volunteer-child {
+    position: absolute;
+width: 350px;
+height: 2px;
+left: 508px;
+top: 220px;
+
+background: #B9B9B9;
+  }
+/*------------------------------heading end-------------------------------*/
+/*--------------------select and ngo------------------*/
+
+  .select-an-ngo {
+    position: absolute;
+width: 280px;
+height: 30px;
+left: 200px;
+top: 250px;
+margin: 0px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* or 31px */
+
+
+color: #000000;
+
+  }
+
+  .textselectngo{
+    box-sizing: border-box;
+
+position: absolute;
+width: 340px;
+height: 30px;
+left: 197px;
+top: 280px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 30px;
+  }
+
+
+/*---------------------select ngo end-----------------------*/
+/*button submit*/
+.button-submit{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 224px;
+    height: 55px;
+    left: 250px;
+    top: 500px;
+    
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 97.5%;
+/* identical to box height, or 20px */
+
+
+color: #FFFFFF;
+
+    background: #BB0A21;
+    border: 1px solid #BB0A21;
+    border-radius: 30px;
+}
+
+/*button end*/
+
+/*-----------image--------------------*/
+.images-5-1 {
+    position: absolute;
+width: 533px;
+height: 368px;
+left: 700px;
+top: 240px;
+  }
+  /*----------------image end------------*/
+  /*----------------------become our member---------------*/
+  .button-member{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 348px;
+    height: 40px;
+    left: 197px;
+    top: 400px;
+    
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* identical to box height, or 20px */
+
+
+color: #000000;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 30px;
+  }
+  .button-member:hover{
+    border-color: #D15A69;
+    background: #D15A69;
+    color:#FFFFFF
+  }
+  /*---------------become our member end----------*/
+
+  .or {
+    position: absolute;
+    width: 50px;
+    height: 31px;
+    left: 340px;
+    top: 340px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 97.5%;
+    /* or 31px */
+    
+    
+    color: #000000;
+    
+  }
+  .become-a-volunteer {
+    
+    position: relative;
+width: 1320px;
+height: 600px;
+
+background: #FFFFFF;
+  }
+ 
+  

@@ -1,0 +1,221 @@
+html{
+  scroll-behavior: smooth;
+}
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0 ;
+}
+
+body{
+  display: flex;
+  overflow-x: hidden;
+  flex-direction: column;
+  justify-content: flex-end;
+  font-family: Montserrat;
+  animation: transitionIn 1s;
+ 
+
+}
+
+@keyframes transitionIn {
+  from{
+    opacity: 0;
+    transform: translate(-10px);
+  }
+
+  to{
+    opacity: 1;
+    transform: translate(0);
+  }
+}
+
+nav {
+   
+    display: flex;
+    justify-content: center;
+    
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    margin-top: 95px;
+  }
+  
+  nav ul li {
+    margin: 0 10px;
+    
+  }
+  
+  nav ul li a {
+    color: #4A4A48;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+    font-family: Montserrat;
+    padding: 15px;
+  }
+  
+#logo {
+position: absolute;
+width: 205px;
+height: 49px;
+left: 52px;
+top: 80px;
+text-decoration: none;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 97.5%;
+text-align: center;
+color: #BB0A21;
+}
+
+#textureBg{
+position: absolute;
+width: 1440px;
+height: 450px;
+left: 0px;
+top: -13px;
+z-index: -1;
+
+}
+
+#slogan1{
+position: absolute;
+width: 337px;
+height: 63px;
+left: 285px;
+top: 173px;
+
+font-family: 'Montserrat';
+font-weight: 900;
+font-size: 65px;
+
+text-align: center;
+color: #BB0A21;
+}
+
+#slogan2{
+position: absolute;
+width: 204px;
+height: 63px;
+left: 642px;
+top: 173px;
+font-family: 'Montserrat';
+font-weight: 100;
+font-size: 65px;
+text-align: center;
+color: #000000;
+
+}
+
+#slogan3{
+position: absolute;
+width: 281px;
+height: 63px;
+left: 866px;
+top: 173px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 900;
+font-size: 65px;
+text-align: center;
+color: #000000;
+}
+
+#subSlogan{
+position: absolute;
+width: 952px;
+height: 72px;
+left: 241px;
+top: 300px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 200%;
+/* or 36px */
+
+text-align: center;
+
+color: #4A4A48;
+
+}
+
+#impact{
+position: absolute;
+width: 200px;
+height: 24px;
+left: 620px;
+top: 500px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 900;
+font-size: 30px;
+line-height: 97.5%;
+
+text-align: center;
+
+color: #000000;
+
+
+}
+
+.volbtn{
+  display: inline-block;
+  background-color: #BB0A21; 
+  color: white;
+  height: 70px;
+  width: 350px;
+  border-radius: 17px;
+  font-size: 20px;
+  margin-left: 530px;
+  margin-top: 90px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container{
+  max-width: 1440px;
+  margin: 0 auto;
+  overflow: auto;
+
+}
+.counters{
+  padding: 40px 20px;
+}
+
+.counters .container{
+  margin-top: 430px;
+  display: grid;
+  grid-gap: 30px;
+  grid-template-columns: repeat(3, 1fr);
+  text-align: center;
+}
+
+.counters .counter{
+  font-size: 55px;
+  margin: 10px 0;
+  font-weight: 900;
+  color: #BB0A21;
+}
+
+.footer-content{
+  font-size: 12px;
+}
+
+.footer-content :end{
+  font-size: 12px;
+}
+
+
+  

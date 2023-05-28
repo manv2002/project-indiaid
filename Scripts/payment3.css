@@ -1,0 +1,264 @@
+.about-us5{
+    position: absolute;
+    width: 93px;
+    height: 20px;
+    left: 390px;
+    top: 77px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #4A4A48;
+}
+.announcement5{
+    position: absolute;
+    width: 159px;
+    height: 20px;
+    left: 549px;
+    top: 77px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #4A4A48;
+}
+.contact5{
+    position: absolute;
+    width: 80px;
+    height: 20px;
+    left: 772px;
+    top: 77px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #4A4A48;
+}
+.loginsignup5 {
+    position: absolute;
+    width: 136px;
+    height: 20px;
+    left: 913px;
+    top: 77px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #4A4A48;
+}
+
+.donate-btn-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-indianred);
+  width: 289px;
+  height: 52px;
+}
+.proceed-with-payment1 {
+  position: absolute;
+  top: 16px;
+  left: 29.57px;
+  line-height: 97.5%;
+  display: inline-block;
+  width: 229.87px;
+}
+.donate-btn4 {
+  position: absolute;
+  top: 832px;
+  left: 942px;
+  width: 289px;
+  height: 52px;
+  color: var(--color-white);
+}
+.logo5 {
+    position: absolute;
+    width: 205px;
+    height: 49px;
+    left: 52px;
+    top: 62px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 97.5%;
+    /* identical to box height, or 49px */
+    
+    text-align: center;
+    
+    color: #BB0A21;
+}
+
+
+.button4{
+    box-sizing: border-box;
+
+position: absolute;
+width: 165px;
+height: 39px;
+left: 823px;
+top: 289px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* identical to box height, or 20px */
+
+text-align: center;
+
+color: #000000;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 9px;
+}
+.button4:hover{
+  border: 1px solid #BB0A21;
+}
+
+    .button6{
+        box-sizing: border-box;
+      
+        position: absolute;
+        width: 165px;
+        height: 39px;
+        left: 1195px;
+        top: 289px;
+        
+        background: #FFFFFF;
+        border: 1px solid #BB0A21;
+        border-radius: 9px;
+        
+      font-family: 'Montserrat';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 20px;
+      line-height: 97.5%;
+      /* or 20px */
+      
+      text-align: center;
+      
+      color: #000000;
+      
+      }
+      .button6:hover{
+        border: 1px solid #BB0A21; 
+      }
+
+.payment1-child{
+    position: absolute;
+width: 638px;
+height: 720px;
+left: 55px;
+top: 164px;
+border-radius: 15px;
+}
+
+
+.span4 {
+    color:#BB0A21;
+  }
+  .charity-is-power-container2{
+    position: absolute;
+  width: 307px;
+  height: 35px;
+  left: 943px;
+  top: 189px;
+  
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 97.5%;
+  /* or 35px */
+  
+  text-align: center;
+  }
+  
+.payment1-child9 {
+  
+    position: absolute;
+    width: 394px;
+    height: 2px;
+    left: 890px;
+    top: 238px;
+    
+    background: #B9B9B9;
+    }
+
+.upiid{
+    position: absolute;
+width: 276px;
+height: 20px;
+left: 959px;
+top: 752px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* identical to box height, or 20px */
+
+text-align: center;
+
+color: #000000;
+
+}
+
+.qr{
+    position: absolute;
+width: 352px;
+height: 352px;
+left: 921px;
+top: 377px;
+}
+.done{
+    
+position: absolute;
+width: 289px;
+height: 52px;
+left: 946px;
+top: 821px;
+
+background: #D15A69;
+border-radius: 15px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* identical to box height, or 20px */
+
+text-align: center;
+
+color: #FFFFFF;
+
+}

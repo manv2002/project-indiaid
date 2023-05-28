@@ -1,0 +1,192 @@
+/*------------------nav bar start---------------------------*/
+.about-us{
+    position: absolute;
+    width: 93px;
+    height: 20px;
+    left: 377px;
+    top: 50px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #4A4A48;
+}
+
+.announcement {
+position: absolute;
+width: 159px;
+height: 20px;
+left: 536px;
+top: 50px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* identical to box height, or 20px */
+
+text-align: center;
+
+color: #4A4A48;
+}
+
+.loginsignup {
+    position: absolute;
+    width: 136px;
+    height: 20px;
+    left: 900px;
+    top: 50px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #4A4A48;
+    
+}
+
+.contact {
+    position: absolute;
+    width: 80px;
+    height: 20px;
+    left: 759px;
+    top: 50px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #4A4A48;
+}
+
+.logo {
+position: absolute;
+width: 205px;
+height: 49px;
+left: 52px;
+top: 32px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 97.5%;
+/* identical to box height, or 49px */
+
+text-align: center;
+
+color: #BB0A21;
+}
+
+.donate {
+position: absolute;
+width: 75px;
+height: 20px;
+left: 1097px;
+top: 50px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* identical to box height, or 20px */
+
+text-align: center;
+
+color: #4A4A48;
+}
+
+/*------------------------nav bar end-------------------------------------*/
+/*------------------------- Heading----------------------------*/
+.making-this-world{
+    color:#BB0A21
+}
+.we-thank-you-container {
+    position: absolute;
+width: 700px;
+height: 70px;
+left: 335px;
+top: 130px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 97.5%;
+/* or 35px */
+
+text-align: center;
+}
+/*------------------------- Heading end----------------------------*/
+/*-----------------------picture------------------------------------*/
+
+.picture {
+position: absolute;
+width: 992px;
+height: 223px;
+left: 180px;
+top: 400px;
+  }
+/*---------------------------picture end--------------------------------*/
+  .line-under {
+    position: absolute;
+width: 901px;
+height: 0px;
+left: 232px;
+top: 220px;
+
+border: 1px solid #000000;
+  }
+  .indiaid1 {
+    font-weight: 600;
+  }
+  .our-executive-will-container {
+    position: absolute;
+    width: 802px;
+    height: 60px;
+    left: 270px;
+    top: 260px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 97.5%;
+    /* or 20px */
+    
+    text-align: justify;
+    
+    color: #000000;
+    
+  }
+ 
+  .contribute-offline-response {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 635px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-xl);
+    color: var(--color-darkslategray);
+    font-family: var(--font-montserrat);
+  }
+  

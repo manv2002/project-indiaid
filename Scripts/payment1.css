@@ -1,0 +1,645 @@
+.about-us5{
+    position: absolute;
+    width: 93px;
+    height: 20px;
+    left: 390px;
+    top: 77px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #4A4A48;
+}
+.announcement5{
+    position: absolute;
+    width: 159px;
+    height: 20px;
+    left: 549px;
+    top: 77px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #4A4A48;
+}
+.contact5{
+    position: absolute;
+    width: 80px;
+    height: 20px;
+    left: 772px;
+    top: 77px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #4A4A48;
+}
+.loginsignup5 {
+    position: absolute;
+    width: 136px;
+    height: 20px;
+    left: 913px;
+    top: 77px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #4A4A48;
+}
+
+.donate-btn-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-indianred);
+  width: 289px;
+  height: 52px;
+}
+.proceed-with-payment1 {
+  position: absolute;
+  top: 16px;
+  left: 29.57px;
+  line-height: 97.5%;
+  display: inline-block;
+  width: 229.87px;
+}
+.donate-btn4 {
+  position: absolute;
+  top: 832px;
+  left: 942px;
+  width: 289px;
+  height: 52px;
+  color: var(--color-white);
+}
+.logo5 {
+    position: absolute;
+    width: 205px;
+    height: 49px;
+    left: 52px;
+    top: 62px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 97.5%;
+    /* identical to box height, or 49px */
+    
+    text-align: center;
+    
+    color: #BB0A21;
+}
+.bottomlinks4 {
+    position: absolute;
+    width: 1440px;
+    height: 40px;
+    left: 0px;
+    top: 984px;
+    
+    background: rgba(185, 185, 185, 0.15);
+}
+.payment1-child {
+  position: absolute;
+  top: 164px;
+  left: 55px;
+  border-radius: var(--br-mini);
+  width: 638px;
+  height: 720px;
+  object-fit: cover;
+}
+.amount1{
+    position: absolute;
+width: 84px;
+height: 20px;
+left: 780px;
+top: 452px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* identical to box height, or 20px */
+
+text-align: center;
+
+color: #000000;
+
+}
+.currency1{
+    position: absolute;
+width: 91px;
+height: 20px;
+left: 1079px;
+top: 455px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* identical to box height, or 20px */
+
+text-align: center;
+
+color: #000000;
+
+}
+.name1 {
+    position: absolute;
+    width: 62px;
+    height: 20px;
+    left: 802px;
+    top: 383px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #000000;
+}
+
+.card-no1{
+    position: absolute;
+width: 86px;
+height: 20px;
+left: 780px;
+top: 601px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* identical to box height, or 20px */
+
+text-align: center;
+
+color: #000000;
+
+}
+.card-type{
+    position: absolute;
+width: 106px;
+height: 20px;
+left: 760px;
+top: 528px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* identical to box height, or 20px */
+
+text-align: center;
+
+color: #000000;
+}
+.cvv1{
+    position: absolute;
+width: 43px;
+height: 20px;
+left: 816px;
+top: 667px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* identical to box height, or 20px */
+
+text-align: center;
+
+color: #000000;
+
+}
+.expiry-date1 {
+    position: absolute;
+    width: 116px;
+    height: 20px;
+    left: 1065px;
+    top: 667px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+
+.payment1-child1,
+.payment1-child2,
+.payment1-child3,
+.payment1-inner,
+.payment1-item {
+  position: absolute;
+  top: 289px;
+  left: 823px;
+  border-radius: var(--br-4xs);
+  width: 165px;
+  height: 39px;
+}
+.payment1-child1,
+.payment1-child2,
+.payment1-child3,
+.payment1-inner {
+  top: 657px;
+  left: 882px;
+}
+.payment1-child1,
+.payment1-child2,
+.payment1-child3 {
+  top: 522px;
+  left: 885px;
+  width: 479px;
+}
+.payment1-child2,
+.payment1-child3 {
+  top: 445px;
+  left: 884px;
+  width: 165px;
+}
+.payment1-child3 {
+  top: 593px;
+  width: 479px;
+}
+.payment1-child4,
+.payment1-child5,
+.payment1-child6,
+.payment1-child7 {
+  position: absolute;
+  top: 445px;
+  left: 1195px;
+  border-radius: var(--br-4xs);
+  width: 165px;
+  height: 39px;
+}
+.payment1-child5,
+.payment1-child6,
+.payment1-child7 {
+  top: 657px;
+  left: 1193px;
+}
+.payment1-child6,
+.payment1-child7 {
+  top: 289px;
+  left: 1009px;
+}
+.payment1-child7 {
+  left: 1195px;
+}
+.upi1 {
+  position: absolute;
+  top: 299px;
+  left: 1208px;
+  line-height: 97.5%;
+  display: inline-block;
+  width: 135px;
+  height: 25px;
+}
+.payment1-child8 {
+  position: absolute;
+  top: 372px;
+  left: 884px;
+  border-radius: var(--br-4xs);
+  width: 479px;
+  height: 42px;
+}
+.span4 {
+  color:#BB0A21;
+}
+.charity-is-power-container2{
+  position: absolute;
+width: 307px;
+height: 35px;
+left: 943px;
+top: 189px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 97.5%;
+/* or 35px */
+
+text-align: center;
+}
+.details-disclaimers-container2 {
+  
+position: absolute;
+width: 449px;
+height: 20px;
+left: 868px;
+top: 754px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* identical to box height, or 20px */
+
+text-align: center;
+
+}
+
+.payment1-child9 {
+  
+position: absolute;
+width: 394px;
+height: 2px;
+left: 890px;
+top: 238px;
+
+background: #B9B9B9;
+}
+.card1 {
+  top: 299px;
+  left: 881px;
+}
+.bank1,
+.card1,
+.mmyy1 {
+  position: absolute;
+  line-height: 97.5%;
+}
+.bank1 {
+  top: 299px;
+  left: 1026px;
+  display: inline-block;
+  width: 135px;
+  height: 25px;
+}
+.mmyy1 {
+  top: 669px;
+  left: 1214px;
+  font-size: var(--font-size-base);
+}
+/*
+.group-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 69px;
+  height: 69px;
+}
+.m5 {
+  position: absolute;
+  top: 17px;
+  left: 17px;
+  line-height: 97.5%;
+}
+.ellipse-parent2 {
+  position: absolute;
+  top: 67px;
+  left: 1303px;
+  width: 69px;
+  height: 69px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+}*/
+.payment1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
+.button3{
+    position: absolute;
+width: 289px;
+height: 52px;
+left: 942px;
+top: 832px;
+background: #D15A69;
+border-radius: 15px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* identical to box height, or 20px */
+
+text-align: center;
+border-color: #D15A69;
+color: #FFFFFF;
+}
+
+.button4{
+  box-sizing: border-box;
+
+position: absolute;
+width: 165px;
+height: 39px;
+left: 823px;
+top: 289px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* identical to box height, or 20px */
+
+text-align: center;
+
+color: #000000;
+
+background: #FFFFFF;
+border: 1px solid #BB0A21;
+border-radius: 9px;
+}
+.button4:hover{
+  border: 1px solid #BB0A21;
+}
+
+.button5{
+  box-sizing: border-box;
+
+position: absolute;
+width: 165px;
+height: 39px;
+left: 1009px;
+top: 289px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* or 20px */
+
+text-align: center;
+
+color: #000000;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 9px;
+}
+.button5:hover{
+  border: 1px solid #BB0A21;
+}
+
+.button6{
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 165px;
+  height: 39px;
+  left: 1195px;
+  top: 289px;
+  
+  background: #FFFFFF;
+  border: 1px solid #000000;
+  border-radius: 9px;
+  
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* or 20px */
+
+text-align: center;
+
+color: #000000;
+
+}
+.button6:hover{
+  border: 1px solid #BB0A21; 
+}
+
+.textfieldname{
+  box-sizing: border-box;
+
+position: absolute;
+width: 479px;
+height: 42px;
+left: 884px;
+top: 372px;
+
+background: #FFFFFF;
+border: 1px solid #4A4A48;
+border-radius: 9px;
+}
+
+.textfieldcurrency{
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 165px;
+  height: 39px;
+  left: 1195px;
+  top: 445px;
+  
+  background: #FFFFFF;
+  border: 1px solid #4A4A48;
+  border-radius: 9px;
+}
+.textfieldamount{
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 165px;
+  height: 39px;
+  left: 884px;
+  top: 445px;
+  
+  background: #FFFFFF;
+  border: 1px solid #4A4A48;
+  border-radius: 9px;
+}
+
+.textfieldcardno{
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 479px;
+  height: 39px;
+  left: 884px;
+  top: 593px;
+  
+  background: #FFFFFF;
+  border: 1px solid #4A4A48;
+  border-radius: 9px;
+}
+.textfieldcardtype{
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 479px;
+  height: 39px;
+  left: 885px;
+  top: 522px;
+  
+  background: #FFFFFF;
+  border: 1px solid #4A4A48;
+  border-radius: 9px;
+}
+.textfieldcvv{
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 165px;
+  height: 39px;
+  left: 882px;
+  top: 657px;
+  
+  background: #FFFFFF;
+  border: 1px solid #4A4A48;
+  border-radius: 9px;
+}
+.textfieldexpirydate{
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 165px;
+  height: 39px;
+  left: 1193px;
+  top: 657px;
+  
+  background: #FFFFFF;
+  border: 1px solid #4A4A48;
+  border-radius: 9px;
+}

@@ -1,0 +1,404 @@
+.about-us3{
+  position: absolute;
+    width: 93px;
+    height: 20px;
+    left: 390px;
+    top: 77px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #4A4A48;
+}
+.announcement3{
+  position: absolute;
+    width: 159px;
+    height: 20px;
+    left: 549px;
+    top: 77px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #4A4A48;
+}
+.contact3{
+  position: absolute;
+    width: 80px;
+    height: 20px;
+    left: 772px;
+    top: 77px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #4A4A48;
+}
+.loginsignup3{
+  position: absolute;
+  width: 136px;
+  height: 20px;
+  left: 913px;
+  top: 77px;
+  
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 97.5%;
+  /* identical to box height, or 20px */
+  
+  text-align: center;
+  
+  color: #4A4A48;
+}
+.logo3 {
+  position: absolute;
+    width: 205px;
+    height: 49px;
+    left: 52px;
+    top: 62px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 97.5%;
+    /* identical to box height, or 49px */
+    
+    text-align: center;
+    
+    color: #BB0A21;
+}
+
+.bottomlinks2 {
+  position: absolute;
+    width: 1440px;
+    height: 40px;
+    left: 0px;
+    top: 984px;
+    
+    background: rgba(185, 185, 185, 0.15);
+}
+.list-ngos-child,
+.list-ngos-inner,
+.list-ngos-item {
+  position: absolute;
+  top: 606px;
+  left: 112px;
+  border-radius: var(--br-mini);
+  width: 378px;
+  height: 247px;
+  object-fit: cover;
+}
+.list-ngos-inner,
+.list-ngos-item {
+  left: 986px;
+}
+.list-ngos-inner {
+  top: 339px;
+}
+.polio-vaccination {
+  position: absolute;
+  top: 355px;
+  left: 649px;
+  line-height: 97.5%;
+}
+.list-ngos-child1 {
+  position: absolute;
+  top: 606px;
+  left: 549px;
+  border-radius: var(--br-mini);
+  width: 378px;
+  height: 247px;
+  object-fit: cover;
+}
+.list-ngos-child2,
+.list-ngos-child3 {
+  position: absolute;
+  top: 606px;
+  left: 549px;
+  border-radius: var(--br-mini) var(--br-mini) 0 0;
+  background-color: var(--color-gainsboro-100);
+  width: 378px;
+  height: 63px;
+}
+.list-ngos-child3 {
+  top: 604px;
+  left: 986px;
+}
+.divya-disha- {
+  position: absolute;
+  top: 628px;
+  left: 597px;
+  line-height: 97.5%;
+}
+.list-ngos-child4 {
+  left: 112px;
+  border-radius: var(--br-mini);
+  height: 246px;
+  object-fit: cover;
+}
+.list-ngos-child4,
+.list-ngos-child5,
+.list-ngos-child6 {
+  position: absolute;
+  top: 339px;
+  width: 378px;
+}
+.list-ngos-child5 {
+  left: 112px;
+  border-radius: var(--br-mini) var(--br-mini) 0 0;
+  background-color: var(--color-gainsboro-100);
+  height: 63px;
+}
+.list-ngos-child6 {
+  left: 549px;
+  border-radius: var(--br-mini);
+  height: 246px;
+  object-fit: cover;
+}
+.help-each-other1 {
+  color:#BB0A21
+}
+.listed-ngos{
+  position: absolute;
+  width: 216px;
+  height: 31px;
+  left: 173px;
+  top: 260px;
+  
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 97.5%;
+  /* or 31px */
+  
+  text-align: center;
+  
+  color: #000000;
+  
+}
+.together-lets-help-container1 {
+  position: absolute;
+width: 574px;
+height: 35px;
+left: 433px;
+top: 156px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 97.5%;
+/* or 35px */
+
+text-align: center;
+}
+
+
+.list-ngos-child7 {
+  position: absolute;
+width: 330px;
+height: 2px;
+left: 116px;
+top: 309px;
+
+background: #B9B9B9;
+}
+.smile-foundation {
+  position: absolute;
+  top: 358px;
+  left: 209px;
+  line-height: 97.5%;
+}
+.donate-btn-item,
+.list-ngos-child8 {
+  position: absolute;
+  top: 340px;
+  left: 986px;
+  border-radius: var(--br-mini) var(--br-mini) 0 0;
+  background-color: var(--color-gainsboro-100);
+  width: 378px;
+  height: 63px;
+}
+.donate-btn-item {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-indianred);
+  width: 289px;
+  height: 52px;
+}
+.list-your-ngo1 {
+  position: absolute;
+  top: 16px;
+  left: 29.57px;
+  line-height: 97.5%;
+  display: inline-block;
+  width: 229.87px;
+}
+.donate-btn1 {
+  position: absolute;
+  top: 250px;
+  left: 1030px;
+  width: 289px;
+  height: 52px;
+  color: var(--color-white);
+}
+.list-ngos-child9 {
+  position: absolute;
+  top: 918px;
+  left: 523px;
+  border-radius: 7px;
+  background-color: var(--color-silver-100);
+  width: 394px;
+  height: 2px;
+}
+.list-ngos-child10 {
+  position: absolute;
+  top: 605.5px;
+  left: 112px;
+  width: 378px;
+  height: 63px;
+}
+.cry-ngo- {
+  position: absolute;
+  top: 628px;
+  left: 182px;
+  line-height: 97.5%;
+}
+.list-ngos-child11 {
+  position: absolute;
+  top: 340px;
+  left: 549px;
+  border-radius: var(--br-mini) var(--br-mini) 0 0;
+  background-color: var(--color-gainsboro-100);
+  width: 378px;
+  height: 63px;
+}
+.polio-vaccination1,
+.rebirth-care-trust,
+.robinhoodarmy {
+  position: absolute;
+  top: 360px;
+  left: 649px;
+  line-height: 97.5%;
+}
+.rebirth-care-trust,
+.robinhoodarmy {
+  left: 1092px;
+}
+.rebirth-care-trust {
+  top: 628px;
+  left: 1083px;
+}
+/*
+.ellipse-icon {
+  top: 0;
+  left: 0;
+  width: 69px;
+  height: 69px;
+}
+.ellipse-icon,
+.group-div,
+.m3 {
+  position: absolute;
+}
+.m3 {
+  top: 17px;
+  left: 17px;
+  line-height: 97.5%;
+}
+.group-div {
+  top: 67px;
+  left: 1303px;
+  width: 69px;
+  height: 69px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+}*/
+.list-ngos {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
+
+.button11{
+  
+position: absolute;
+width: 289px;
+height: 52px;
+left: 1030px;
+top: 250px;
+border-color: #D15A69;
+background: #D15A69;
+border-radius: 15px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* identical to box height, or 20px */
+
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+.card{
+  overflow: hidden;
+  position: absolute;
+width: 378px;
+height: 63px;
+left: 112px;
+top: 339px;
+
+background: rgba(217, 217, 217, 0.85);
+border-radius: 15px 15px 0px 0px;
+}
+.card-title{
+  position: absolute;
+  width: 186px;
+  height: 20px;
+  left: 209px;
+  top: 358px;
+  margin-top: 339px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 97.5%;
+/* identical to box height, or 20px */
+
+text-align: center;
+
+color: #000000;
+
+}

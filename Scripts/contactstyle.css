@@ -1,0 +1,65 @@
+
+
+form{
+    margin-top: 990px;
+    margin-left: 200px;
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    padding: 2vw 4vw;
+    width: 90%;
+    max-width: 600px;
+    border-radius: 10px;
+}
+
+form h3{
+    font-weight: 800;
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+
+form input, form textarea{
+    border: 0;
+    margin: 10px 0;
+    font-family: Montserrat;
+    padding: 20px;
+    background: #e5e5e5;
+    outline: none;
+    font-size: 16px;
+    border-radius: 20px;
+}
+
+form button{
+    margin-top: 10px;
+    padding: 15px;
+    width: 150px;
+    border-radius: 20px;
+    background: #BB0A21;
+    color: #fff;
+    font-size: 18px;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+    margin: 20px auto 0;
+}
+
+.greybox{
+    position: absolute;
+width: 740px;
+height: 630px;
+left: 0px;
+top: 1750px;
+z-index: -1;
+
+background: #E5E5E5;
+}
+
+#contactimg{
+position: absolute;
+width: 740px;
+height: 630px;
+left: 740px;
+top: 1750px;
+z-index: -1;
+
+}

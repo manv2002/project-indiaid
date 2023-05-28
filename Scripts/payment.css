@@ -1,0 +1,640 @@
+.about-us8{
+    position: absolute;
+    width: 93px;
+    height: 20px;
+    left: 390px;
+    top: 77px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #4A4A48;
+}
+.announcement8{
+    position: absolute;
+    width: 159px;
+    height: 20px;
+    left: 549px;
+    top: 77px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #4A4A48;
+}
+.contact8{
+    position: absolute;
+    width: 80px;
+    height: 20px;
+    left: 772px;
+    top: 77px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #4A4A48;
+}
+.loginsignup8 {
+    position: absolute;
+    width: 136px;
+    height: 20px;
+    left: 913px;
+    top: 77px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #4A4A48;
+}
+
+.donate-btn-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-indianred);
+  width: 289px;
+  height: 52px;
+}
+.proceed-with-payment2 {
+  position: absolute;
+  top: 16px;
+  left: 29.57px;
+  line-height: 97.5%;
+  display: inline-block;
+  width: 229.87px;
+}
+.donate-btn5 {
+  position: absolute;
+  top: 818px;
+  left: 772px;
+  width: 289px;
+  height: 52px;
+  color: var(--color-white);
+}
+.logo8 {
+    position: absolute;
+    width: 205px;
+    height: 49px;
+    left: 52px;
+    top: 62px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 97.5%;
+    /* identical to box height, or 49px */
+    
+    text-align: center;
+    
+    color: #BB0A21;
+}
+.bottomlinks7 {
+    position: absolute;
+    width: 1440px;
+    height: 40px;
+    left: 0px;
+    top: 984px;
+    
+    background: rgba(185, 185, 185, 0.15);
+}
+.payment-child {
+  position: absolute;
+  top: 164px;
+  left: 55px;
+  border-radius: var(--br-mini);
+  width: 638px;
+  height: 720px;
+  object-fit: cover;
+}
+.address1{
+    position: absolute;
+width: 81px;
+height: 20px;
+left: 771px;
+top: 383px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* identical to box height, or 20px */
+
+text-align: center;
+
+color: #000000;
+}
+
+.city{
+    position: absolute;
+width: 39px;
+height: 20px;
+left: 813px;
+top: 452px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* identical to box height, or 20px */
+
+text-align: center;
+
+color: #000000;
+
+}
+.phone{
+    position: absolute;
+width: 66px;
+height: 20px;
+left: 787px;
+top: 613px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* identical to box height, or 20px */
+
+text-align: center;
+
+color: #000000;
+}
+.zip {
+    position: absolute;
+    width: 32px;
+    height: 20px;
+    left: 820px;
+    top: 527px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #000000;
+}
+
+.country{
+    position: absolute;
+width: 81px;
+height: 20px;
+left: 1100px;
+top: 537px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* identical to box height, or 20px */
+
+text-align: center;
+
+color: #000000;
+}
+.email2{
+    position: absolute;
+width: 58px;
+height: 20px;
+left: 795px;
+top: 683px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* identical to box height, or 20px */
+
+text-align: center;
+
+color: #000000;
+}
+.last-name{
+    position: absolute;
+width: 135px;
+height: 25px;
+left: 1055px;
+top: 315px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* or 20px */
+
+text-align: center;
+
+color: #000000;
+}
+.state1 {
+    position: absolute;
+    width: 53px;
+    height: 20px;
+    left: 1128px;
+    top: 456px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #000000;
+}
+
+.payment-child1,
+.payment-inner,
+.payment-item {
+  position: absolute;
+  top: 308px;
+  left: 882px;
+  border-radius: var(--br-4xs);
+  width: 165px;
+  height: 39px;
+}
+.payment-child1,
+.payment-inner {
+  top: 603px;
+}
+.payment-child1 {
+  top: 673px;
+  left: 884px;
+  width: 479px;
+}
+.payment-child2,
+.payment-child3,
+.payment-child4,
+.payment-child5,
+.payment-child6,
+.payment-child7 {
+  position: absolute;
+  top: 445px;
+  left: 882px;
+  border-radius: var(--br-4xs);
+  width: 165px;
+  height: 39px;
+}
+.payment-child3,
+.payment-child4,
+.payment-child5,
+.payment-child6,
+.payment-child7 {
+  top: 524px;
+}
+.payment-child4,
+.payment-child5,
+.payment-child6,
+.payment-child7 {
+  top: 446px;
+  left: 1198px;
+}
+.payment-child5,
+.payment-child6,
+.payment-child7 {
+  top: 526px;
+}
+.payment-child6,
+.payment-child7 {
+  top: 306px;
+}
+.payment-child7 {
+  top: 372px;
+  left: 884px;
+  width: 479px;
+  height: 42px;
+}
+.span6 {
+  color:#BB0A21;
+}
+.charity-is-power-container3{
+    position: absolute;
+    width: 307px;
+    height: 35px;
+    left: 943px;
+    top: 189px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 97.5%;
+    /* or 35px */
+    
+    text-align: center;
+    
+}
+.details-disclaimers-container3 {
+    position: absolute;
+    width: 449px;
+    height: 20px;
+    left: 868px;
+    top: 746px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+}
+
+.payment-child8 {
+    position: absolute;
+    width: 394px;
+    height: 2px;
+    left: 896px;
+    top: 238px;
+    
+    background: #B9B9B9;
+}
+.first-name {
+    position: absolute;
+    width: 111px;
+    height: 20px;
+    left: 747px;
+    top: 316px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #000000;
+}
+.donate-btn-child4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 289px;
+  height: 52px;
+}
+
+/*
+.group-child5 {
+  position: absolute;
+  top: 816px;
+  left: 1074px;
+  width: 289px;
+  height: 52px;
+}
+.group-child5 {
+  top: 0;
+  left: 0;
+  width: 69px;
+  height: 69px;
+}
+.m8 {
+  position: absolute;
+  top: 17px;
+  left: 17px;
+  line-height: 97.5%;
+}
+.ellipse-parent5 {
+  position: absolute;
+  top: 67px;
+  left: 1303px;
+  width: 69px;
+  height: 69px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+}*/
+.payment {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
+.button9{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 289px;
+height: 52px;
+left: 1074px;
+top: 816px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 15px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* identical to box height, or 20px */
+
+text-align: center;
+
+color: #000000;
+}
+.button9:hover{
+    border-color: #D15A69;
+    background: #D15A69;
+    color:#FFFFFF
+}
+.button10{
+    position: absolute;
+width: 289px;
+height: 52px;
+left: 772px;
+top: 818px;
+border-color: #D15A69;
+background: #D15A69;
+border-radius: 15px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* identical to box height, or 20px */
+
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+ 
+.textfieldfname{
+    box-sizing: border-box;
+
+position: absolute;
+width: 165px;
+height: 39px;
+left: 882px;
+top: 308px;
+
+background: #FFFFFF;
+border: 1px solid #4A4A48;
+border-radius: 9px;
+  }
+
+  .textfieldlname{
+    box-sizing: border-box;
+
+position: absolute;
+width: 165px;
+height: 39px;
+left: 1198px;
+top: 306px;
+
+background: #FFFFFF;
+border: 1px solid #4A4A48;
+border-radius: 9px;
+  }
+
+  .textfieldaddress1{
+    box-sizing: border-box;
+
+position: absolute;
+width: 479px;
+height: 42px;
+left: 884px;
+top: 372px;
+
+background: #FFFFFF;
+border: 1px solid #4A4A48;
+border-radius: 9px;
+  }
+  
+  .textfieldcity{
+    box-sizing: border-box;
+
+position: absolute;
+width: 165px;
+height: 39px;
+left: 882px;
+top: 445px;
+
+background: #FFFFFF;
+border: 1px solid #4A4A48;
+border-radius: 9px;
+  }
+
+  .textfieldstate1{
+    box-sizing: border-box;
+
+position: absolute;
+width: 165px;
+height: 39px;
+left: 1198px;
+top: 446px;
+
+background: #FFFFFF;
+border: 1px solid #4A4A48;
+border-radius: 9px;
+  }
+
+  .textfieldzip{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 165px;
+height: 39px;
+left: 882px;
+top: 524px;
+
+background: #FFFFFF;
+border: 1px solid #4A4A48;
+border-radius: 9px;
+  }
+
+  .textfieldcountry{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 165px;
+height: 39px;
+left: 1198px;
+top: 526px;
+
+background: #FFFFFF;
+border: 1px solid #4A4A48;
+border-radius: 9px;
+  }
+
+  .textfieldphone{
+    box-sizing: border-box;
+
+position: absolute;
+width: 165px;
+height: 39px;
+left: 882px;
+top: 603px;
+
+background: #FFFFFF;
+border: 1px solid #4A4A48;
+border-radius: 9px;
+  }
+
+  .textfieldemail{
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 479px;
+    height: 39px;
+    left: 884px;
+    top: 673px;
+    
+    background: #FFFFFF;
+    border: 1px solid #4A4A48;
+    border-radius: 9px;
+  }

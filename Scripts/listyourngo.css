@@ -1,0 +1,1501 @@
+
+/*------------------nav bar start---------------------------*/
+.about-us{
+    position: absolute;
+    width: 93px;
+    height: 20px;
+    left: 377px;
+    top: 50px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #4A4A48;
+}
+
+.announcement {
+position: absolute;
+width: 159px;
+height: 20px;
+left: 536px;
+top: 50px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* identical to box height, or 20px */
+
+text-align: center;
+
+color: #4A4A48;
+}
+
+.loginsignup {
+    position: absolute;
+    width: 136px;
+    height: 20px;
+    left: 900px;
+    top: 50px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #4A4A48;
+    
+}
+
+.contact {
+    position: absolute;
+    width: 80px;
+    height: 20px;
+    left: 759px;
+    top: 50px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #4A4A48;
+}
+
+.logo {
+position: absolute;
+width: 205px;
+height: 49px;
+left: 52px;
+top: 32px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 97.5%;
+/* identical to box height, or 49px */
+
+text-align: center;
+
+color: #BB0A21;
+}
+
+.donate {
+position: absolute;
+width: 75px;
+height: 20px;
+left: 1097px;
+top: 50px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* identical to box height, or 20px */
+
+text-align: center;
+
+color: #4A4A48;
+}
+
+/*------------------------nav bar end-------------------------------------*/
+/*------------------------- Heading----------------------------*/
+.help-each-other{
+    color:#BB0A21
+}
+.together-lets-help-container {
+    position: absolute;
+    width: 574px;
+    height: 35px;
+    left: 380px;
+    top: 130px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 97.5%;
+    /* or 35px */
+    
+    text-align: center;
+}
+/*------------------------- Heading end----------------------------*/
+/*-----------Basic info--------------------------------*/
+.basic-info{
+    
+position: absolute;
+width: 156px;
+height: 31px;
+left: 200px;
+top: 200px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 97.5%;
+/* or 31px */
+
+text-align: center;
+
+color: #000000;
+}
+/*------------------basic info end-----------------------------*/
+/*------------------line under basic info-------------------------*/
+.line-under-basic-info{
+    position: absolute;
+width: 200px;
+height: 2px;
+left: 200px;
+top: 240px;
+
+background: #000000;
+border-radius: 7px;
+}
+/*--------------------line under basic info ends-----------------*/
+/*--------------------first picture----------------------------*/
+.first-picture{
+    position: absolute;
+width: 370px;
+height: 380px;
+left: 744px;
+top: 200px;
+bottom: 600 ;
+
+}
+/*------------------first picture end---------------------*/
+/*------------------ngo name---------------*/
+
+.ngo-name {
+    position: absolute;
+    width: 134px;
+    height: 16px;
+    left: 200px;
+    top: 270px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 20px */
+    
+    text-align: center;
+    
+    color: #000000;
+}
+
+.textfieldngoname{
+    box-sizing: border-box;
+
+position: absolute;
+width: 400px;
+height: 27px;
+left: 200px;
+top: 290px;
+
+background: #FFFFFF;
+border: 1px solid #4A4A48;
+border-radius: 9px;
+}
+/*------------------ngo name end----------------------*/
+/*----------------ngo email--------------------*/
+.ngo-email{
+    position: absolute;
+width: 98.67px;
+height: 16.25px;
+left: 190px;
+top: 325px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* or 20px */
+
+text-align: center;
+
+color: #000000;
+}
+
+.textfieldngoemail{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 400px;
+height: 27px;
+left: 200px;
+top: 345px;
+
+background: #FFFFFF;
+border: 1px solid #4A4A48;
+border-radius: 9px;
+}
+/*------------------ngo email end-------------*/
+/*-------------------ngo category--------------------*/
+.ngo-category{
+    position: absolute;
+    width: 162px;
+    height: 16px;
+    left: 200px;
+    top: 380px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 20px */
+    
+    text-align: center;
+    
+    color: #000000;
+}
+
+.textfieldngocategory{
+    
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 400px;
+    height: 27px;
+    left: 200px;
+    top: 400px;
+    
+    background: #FFFFFF;
+    border: 1px solid #4A4A48;
+    border-radius: 9px;
+}
+/*-------------------ngo category end------------------*/
+/*-------------------ngo website---------------------*/
+.ngo-website{
+    position: absolute;
+    width: 88px;
+    height: 16px;
+    left: 205px;
+    top: 440px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 20px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+
+.textfieldngowebsite{
+ 
+box-sizing: border-box;
+
+position: absolute;
+width: 400px;
+height: 27px;
+left: 200px;
+top: 460px;
+
+background: #FFFFFF;
+border: 1px solid #4A4A48;
+border-radius: 9px;
+}
+/*-------------------ngo website end--------------------*/
+/*-------------------ngo image-------------------------*/
+.ngo-image{
+    position: absolute;
+    width: 148px;
+    height: 16px;
+    left: 205px;
+    top: 500px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 20px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+
+.textfieldngoimage{
+    
+    position: absolute;
+    width: 400px;
+    height: 27px;
+    left: 200px;
+    top: 530px;
+    
+}
+/*------------------ngo image end---------------------*/
+/*------------------Address info---------------------*/
+.address-info{
+position: absolute;
+width: 200px;
+height: 31px;
+left: 972px;
+top: 640px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 97.5%;
+/* or 31px */
+
+text-align: center;
+
+color: #000000;
+}
+
+.line-under-address-info{
+    
+position: absolute;
+width: 300px;
+height: 2px;
+left: 875px;
+top: 680px;
+
+background: #000000;
+border-radius: 7px;
+}
+/*------------------Address info end----------------------*/
+/*-----------------second picture-------------------*/
+.second-picture{
+    position: absolute;
+width: 439px;
+height: 467px;
+left: 142px;
+top: 640px;
+
+}
+/*----------------second picture end----------------*/
+/*---------------------Address info form-----------------------------*/
+.address1{
+    position: absolute;
+    width: 81px;
+    height: 20px;
+    left: 693px;
+    top: 740px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.textfieldaddress1{
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 479px;
+    height: 42px;
+    left: 693px;
+    top: 765px;
+    
+    background: #FFFFFF;
+    border: 1px solid #4A4A48;
+    border-radius: 9px;
+}
+.city{
+
+    position: absolute;
+    width: 39px;
+    height: 20px;
+    left: 695px;
+    top: 840px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.textfieldcity{
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 220px;
+    height: 39px;
+    left: 695px;
+    top: 865px;
+    
+    background: #FFFFFF;
+    border: 1px solid #4A4A48;
+    border-radius: 9px;
+}
+
+.state1{
+
+    position: absolute;
+    width: 53px;
+    height: 20px;
+    left: 943px;
+    top: 840px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+
+.textfieldstate1{
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 230px;
+    height: 39px;
+    left: 943px;
+    top: 865px;
+    
+    background: #FFFFFF;
+    border: 1px solid #4A4A48;
+    border-radius: 9px;
+}
+
+.zip{
+    position: absolute;
+    width: 32px;
+    height: 20px;
+    left: 695px;
+    top: 940px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+
+.textfieldzip{
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 165px;
+    height: 39px;
+    left: 693px;
+    top: 965px;
+    
+    background: #FFFFFF;
+    border: 1px solid #4A4A48;
+    border-radius: 9px;
+}
+.country{
+    position: absolute;
+    width: 81px;
+    height: 20px;
+    left: 943px;
+    top: 940px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.textfieldcountry{
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 230px;
+    height: 39px;
+    left: 943px;
+    top: 965px;
+    
+    background: #FFFFFF;
+    border: 1px solid #4A4A48;
+    border-radius: 9px;
+}
+.phone{
+
+    position: absolute;
+    width: 66px;
+    height: 20px;
+    left: 695px;
+    top: 1040px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.textfieldphone{
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 165px;
+    height: 39px;
+    left: 695px;
+    top: 1065px;
+    
+    background: #FFFFFF;
+    border: 1px solid #4A4A48;
+    border-radius: 9px;
+}
+/*---------------------address info form end---------------------------*/
+/*--------------------area of interest-----------------------------*/
+.area-of-interest {
+    
+position: absolute;
+width: 244px;
+height: 31px;
+left: 205px;
+top: 1180px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 97.5%;
+/* or 31px */
+
+text-align: center;
+
+color: #000000;
+
+  }
+
+.line-under-interest-info{
+    
+position: absolute;
+width: 394px;
+height: 2px;
+left: 205px;
+top: 1225px;
+
+background: #000000;
+border-radius: 7px;
+}
+/*----------------------area of interest end----------------------*/
+
+/*---------------------------checkboxes-----------------------------*/
+.checkageing{
+    position: absolute;
+width: 20px;
+height: 20px;
+left: 205px;
+top: 1267px;
+}
+.checkagriculture{
+    position: absolute;
+width: 20px;
+height: 20px;
+left: 205px;
+top: 1297px;
+}
+.checkanimal{
+    
+position: absolute;
+width: 20px;
+height: 20px;
+left: 205px;
+top: 1327px;
+}
+.checkbusiness{
+
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 205px;
+    top: 1357px;
+}
+.checkchildrenyouth{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 205px;
+    top: 1387px;
+}
+.checkcommunication{
+
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 205px;
+    top: 1417px;
+}
+.checkconflictresolution{
+
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 205px;
+    top: 1447px;
+}
+.checkdevelopment{
+
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 205px;
+    top: 1477px;
+    
+}
+.checkeducation{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 205px;
+    top: 1507px;
+    
+}
+.checkenvironment{
+
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 205px;
+    top: 1537px;
+    
+}
+.checkfamily{
+
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 205px;
+    top: 1567px;
+}
+.checknutrition{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 205px;
+    top: 1597px;
+}
+.checkhumanright{
+
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 205px;
+    top: 1627px;
+    
+}
+.checkindigenous{
+
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 205px;
+    top: 1657px;
+    
+}
+.checkinternationalorg{
+
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 205px;
+    top: 1687px;
+}
+.checklabor{
+
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 722px;
+    top: 1267px;
+    
+}
+.checklawlegal{
+
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 722px;
+    top: 1297px;
+}
+.checknarcotics{
+
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 722px;
+    top: 1327px;
+    
+}
+.checkpeacesec{
+
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 722px;
+    top: 1357px;
+}
+.checkpopulation{
+
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 722px;
+    top: 1387px;
+}
+.checkrefugees{
+
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 722px;
+    top: 1417px;
+}
+.checkrelief{
+
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 722px;
+    top: 1447px;
+}
+.checkreligion{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 722px;
+    top: 1477px;
+}
+.checkscience{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 722px;
+    top: 1507px;
+    
+}
+.checksocial{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 722px;
+    top: 1537px;
+}
+.checksports{
+
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 722px;
+    top: 1567px;
+}
+.checktrade{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 722px;
+    top: 1597px;
+}
+.checktransportation{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 722px;
+    top: 1627px;
+}
+.checkwomen{
+
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 722px;
+    top: 1657px;
+}
+.checkother{
+    
+position: absolute;
+width: 304px;
+height: 20px;
+left: 876px;
+top: 1687px;
+
+}
+/*-----------------------checkboxes end----------------------------*/
+/*-----------------------labels-------------------------------------*/
+.ageing{
+    position: absolute;
+    width: 80px;
+    height: 23px;
+    left: 258px;
+    top: 1270px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 23px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.agriculture-and-food{
+    position: absolute;
+    width: 220px;
+    height: 23px;
+    left: 258px;
+    top: 1300px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 23px */
+    
+    text-align: center;
+    
+    color: #000000;
+}
+.animal-health-and{
+
+    position: absolute;
+    width: 265px;
+    height: 23px;
+    left: 258px;
+    top: 1330px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 23px */
+    
+    text-align: center;
+    color: #000000;
+}
+.business-economic{
+
+    position: absolute;
+    width: 285px;
+    height: 23px;
+    left: 258px;
+    top: 1360px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 23px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.children-youth{
+
+    position: absolute;
+    width: 175px;
+    height: 23px;
+    left: 258px;
+    top: 1390px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 23px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.communications-media{
+
+    position: absolute;
+    width: 288px;
+    height: 23px;
+    left: 260px;
+    top: 1420px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 23px */
+    
+    text-align: left;
+    
+    color: #000000;
+    
+}
+.conflict-resolution{
+
+    position: absolute;
+    width: 195px;
+    height: 23px;
+    left: 258px;
+    top: 1450px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 23px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.development{
+
+    position: absolute;
+    width: 142px;
+    height: 23px;
+    left: 258px;
+    top: 1480px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 23px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.education{
+
+    position: absolute;
+    width: 105px;
+    height: 23px;
+    left: 258px;
+    top: 1510px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 23px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.environment{
+    position: absolute;
+    width: 135px;
+    height: 23px;
+    left: 258px;
+    top: 1540px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 23px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.family{
+
+    position: absolute;
+    width: 75px;
+    height: 23px;
+    left: 256px;
+    top: 1570px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 23px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.health-nutrition{
+    position: absolute;
+    width: 186px;
+    height: 23px;
+    left: 258px;
+    top: 1600px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 23px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.human-rights{
+    
+position: absolute;
+width: 152px;
+height: 23px;
+left: 258px;
+top: 1630px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* or 23px */
+
+text-align: center;
+
+color: #000000;
+
+}
+.indigenous-people{
+
+    position: absolute;
+    width: 194px;
+    height: 23px;
+    left: 258px;
+    top: 1660px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 23px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.international-organization{
+
+    position: absolute;
+    width: 500px;
+    height: 23px;
+    left: 260px;
+    top: 1690px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 23px */
+    
+    text-align: left;
+    
+    color: #000000;
+    
+}
+.labor{
+
+    position: absolute;
+    width: 70px;
+    height: 23px;
+    left: 777px;
+    top: 1270px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 23px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.law-legal{
+
+    position: absolute;
+    width: 200px;
+    height: 23px;
+    left: 777px;
+    top: 1300px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 23px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.narcotics-drugs{
+
+    position: absolute;
+    width: 260px;
+    height: 23px;
+    left: 777px;
+    top: 1330px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 23px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.peace-security{
+
+    position: absolute;
+    width: 175px;
+    height: 23px;
+    left: 777px;
+    top: 1360px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 23px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.populationhuman-settlements{
+
+    position: absolute;
+    width: 330px;
+    height: 23px;
+    left: 777px;
+    top: 1390px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 23px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.refugees{
+
+    position: absolute;
+    width: 102px;
+    height: 23px;
+    left: 777px;
+    top: 1420px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 23px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.relief-services{
+    position: absolute;
+    width: 151px;
+    height: 23px;
+    left: 777px;
+    top: 1450px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 23px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.religion-belief{
+
+    position: absolute;
+    width: 242px;
+    height: 23px;
+    left: 777px;
+    top: 1480px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 23px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.science-technology{
+
+    position: absolute;
+    width: 228px;
+    height: 23px;
+    left: 777px;
+    top: 1510px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 23px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.social-cultural{
+
+    position: absolute;
+    width: 315px;
+    height: 23px;
+    left: 777px;
+    top: 1540px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 23px */
+    
+    text-align: center;
+    
+    color: #000000;
+}
+.sports-recreation{
+    position: absolute;
+    width: 206px;
+    height: 23px;
+    left: 777px;
+    top: 1570px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 23px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.trade-international{
+
+    position: absolute;
+    width: 304px;
+    height: 23px;
+    left: 777px;
+    top: 1600px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 23px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.transportation{
+    position: absolute;
+    width: 158px;
+    height: 23px;
+    left: 777px;
+    top: 1630px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 23px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.womens-status{
+    position: absolute;
+    width: 257px;
+    height: 23px;
+    left: 777px;
+    top: 1660px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 23px */
+    
+    text-align: center;
+    
+    color: #000000;    
+}
+.other{
+    position: absolute;
+    width: 82px;
+    height: 23px;
+    left: 777px;
+    top: 1690px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* or 23px */
+    
+    text-align: center;
+    
+    color: #000000;
+    
+}
+/*-------------------------labels end------------------------------------*/
+.list-your-ngo{
+    position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+    height: 1900px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
+
+.button-submit{
+    
+position: absolute;
+width: 289px;
+height: 52px;
+left: 550px;
+top: 1750px;
+border-radius: 15px;
+border-color: #BB0A21;
+background-color: #BB0A21;
+color:#FFFFFF;
+text-align: center;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 97.5%;
+/* or 23px */
+}
+ 

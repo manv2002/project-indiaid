@@ -1,0 +1,336 @@
+/*------------------nav bar start---------------------------*/
+body{
+    height: 110vh;
+    animation: transitionIn 1s;
+}
+@keyframes transitionIn {
+    from{
+      opacity: 0;
+      transform: translate(-10px);
+    }
+  
+    to{
+      opacity: 1;
+      transform: translate(0);
+    }
+  }
+  
+.about-us{
+    position: absolute;
+    width: 93px;
+    height: 20px;
+    left: 377px;
+    top: 50px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #4A4A48;
+}
+
+nav {
+   
+    display: flex;
+    justify-content: center;
+    
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    margin-top: 95px;
+  }
+  
+  nav ul li {
+    margin: 0 10px;
+    
+  }
+  
+  nav ul li a {
+    color: #4A4A48;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+    font-family: Montserrat;
+    padding: 15px;
+  }
+  
+#logo {
+position: absolute;
+width: 205px;
+height: 49px;
+left: 52px;
+top: 80px;
+text-decoration: none;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 97.5%;
+text-align: center;
+color: #BB0A21;
+}
+
+
+.announcement {
+position: absolute;
+width: 159px;
+height: 20px;
+left: 536px;
+top: 50px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* identical to box height, or 20px */
+
+text-align: center;
+
+color: #4A4A48;
+}
+
+.loginsignup {
+    position: absolute;
+    width: 136px;
+    height: 20px;
+    left: 900px;
+    top: 50px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #4A4A48;
+    
+}
+
+.contact {
+    position: absolute;
+    width: 80px;
+    height: 20px;
+    left: 759px;
+    top: 50px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 97.5%;
+    /* identical to box height, or 20px */
+    
+    text-align: center;
+    
+    color: #4A4A48;
+}
+
+.logo {
+position: absolute;
+width: 205px;
+height: 49px;
+left: 52px;
+top: 32px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 97.5%;
+/* identical to box height, or 49px */
+
+text-align: center;
+
+color: #BB0A21;
+}
+
+.donate {
+position: absolute;
+width: 75px;
+height: 20px;
+left: 1097px;
+top: 50px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* identical to box height, or 20px */
+
+text-align: center;
+
+color: #4A4A48;
+}
+
+/*------------------------nav bar end-------------------------------------*/
+
+.donate-child{
+    position: absolute;
+    width: 500px;
+    height: 296px;
+    left: 0px;
+    top: 200px;
+    
+}
+
+.donate-inner{
+    position: absolute;
+    width: 500px;
+    height: 296px;
+    left: 455px;
+    top: 200px;
+}
+.donate-item{
+
+    position: absolute;
+    width: 500px;
+    height: 296px;
+    right: 0px;
+    top: 200px;
+}
+
+.donations{
+    
+position: absolute;
+width: 156px;
+height: 29px;
+left: 605px;
+top: 550px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 97.5%;
+/* or 29px */
+
+text-align: center;
+
+color: #000000;
+
+}
+
+.line-div{
+    
+position: absolute;
+width: 270px;
+height: 0px;
+left: 545px;
+top: 580px;
+border: 0.5px solid #a3a3a3;
+
+}
+
+.instructions-donations{
+    position: absolute;
+width: 1090px;
+height: 48px;
+left: 120px;
+top: 600px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 97.5%;
+/* or 16px */
+
+text-align: center;
+
+color: #000000;
+
+}
+.ngo-button{
+    
+position: absolute;
+width: 240px;
+height: 43px;
+left: 390px;
+top: 700px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* identical to box height, or 20px */
+
+text-align: center;
+
+color: #FFFFFF;
+background: #BB0A21;
+border-color: #BB0A21;
+border-radius: 15px;
+}
+
+.support-button{
+    position: absolute;
+width: 240px;
+height: 43px;
+left: 729px;
+top: 700px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* identical to box height, or 20px */
+
+text-align: center;
+
+color: #FFFFFF;
+border-color: #BB0A21;
+background: #BB0A21;
+border-radius: 15px;
+}
+
+/*--------------------select and ngo------------------*/
+
+.select-an-ngo {
+    position: absolute;
+width: 280px;
+height: 30px;
+left: 530px;
+top: 790px;
+margin: 0px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 97.5%;
+/* or 31px */
+
+
+color: #000000;
+
+  }
+
+  .textselectngo{
+box-sizing: border-box;
+
+position: absolute;
+width: 340px;
+height: 30px;
+left: 500px;
+top: 830px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 30px;
+  }
+
+
+/*---------------------select ngo end-----------------------*/
